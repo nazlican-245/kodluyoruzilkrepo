@@ -11,3 +11,9 @@ Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan pro
 ## Contributing
 
 Kodluyoruz ekibine teşekkür ederim.
+
+[Yapılan ödevin görseli:] (C:\Users\Casper\OneDrive\Resimler\git - kodluyoruz ilk repo) 
+
+## Lisence
+
+MIT
